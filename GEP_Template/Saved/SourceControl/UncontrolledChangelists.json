@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/N8/T8HIW4T4342H9UDYHPR07Q.uasset",
+				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MA/VZIB1W575REIWAZBG0YQJA.uasset",
+				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/29/LKPKV9ILFUOSLVZXTLVQ5F.uasset",
+				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/FHOU/BP_Collectable.uasset",
 				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/Cargo/Master/Textures/T_T_KB3D_Default_ARM.uasset",
 				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/Cargo/Master/Textures/T_T_KB3D_Default_Base_Color.uasset",
 				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/Cargo/Master/Textures/T_T_KB3D_Default_Emissive.uasset",
@@ -311,10 +317,6 @@
 				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/JR/T3PCZC91TZNZ65496FYE32.uasset",
 				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/W8/WJNSV952VMS5GVHIURGBBR.uasset",
-				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
-				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/N8/T8HIW4T4342H9UDYHPR07Q.uasset",
-				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MA/VZIB1W575REIWAZBG0YQJA.uasset",
-				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/29/LKPKV9ILFUOSLVZXTLVQ5F.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
