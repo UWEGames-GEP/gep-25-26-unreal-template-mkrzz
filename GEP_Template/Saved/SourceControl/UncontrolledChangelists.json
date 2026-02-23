@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/FHOU/WBP_Inventory.uasset",
+				"C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0T/K99DL9542SX1CDUB2F3B2R.uasset",
+				"C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/16/X04ZO0FFIM1SU22JLTCIW3.uasset",
+				"C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/L3/2XK1BRPHEHCJ8VO09YD9L2.uasset",
+				"C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/FHOU/BP_Collectable.uasset",
+				"C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/FHOU/WBP_Slot.uasset",
 				"D:/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/FHOU/WBP_Inventory.uasset",
 				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"D:/Uni/Year 2/Game Engine Programming/Git Repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/N8/T8HIW4T4342H9UDYHPR07Q.uasset",
