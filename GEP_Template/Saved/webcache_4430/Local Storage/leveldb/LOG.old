@@ -1,6 +1,27 @@
-2026/04/09-14:47:59.599 5c40 Reusing MANIFEST C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/09-14:47:59.600 5c40 Recovering log #3
-2026/04/09-14:47:59.601 5c40 Reusing old log C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2026/04/09-16:03:21.134 2d14 Level-0 table #5: started
-2026/04/09-16:03:21.137 2d14 Level-0 table #5: 63642 bytes OK
-2026/04/09-16:03:21.140 2d14 Delete type=0 #3
+2026/04/16-22:39:25.600 53b0 Reusing MANIFEST C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/16-22:39:25.600 53b0 Recovering log #58
+2026/04/16-22:39:25.601 53b0 Reusing old log C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/000058.log 
+2026/04/16-22:40:38.026 4168 Level-0 table #62: started
+2026/04/16-22:40:38.029 4168 Level-0 table #62: 69782 bytes OK
+2026/04/16-22:40:38.030 4168 Delete type=0 #58
+2026/04/16-22:42:38.027 10ac Level-0 table #64: started
+2026/04/16-22:42:38.031 10ac Level-0 table #64: 72115 bytes OK
+2026/04/16-22:42:38.033 10ac Delete type=0 #61
+2026/04/16-22:42:38.037 10ac Compacting 4@0 + 1@1 files
+2026/04/16-22:42:38.040 10ac Generated table #65@0: 11 keys, 36867 bytes
+2026/04/16-22:42:38.040 10ac Compacted 4@0 + 1@1 files => 36867 bytes
+2026/04/16-22:42:38.042 10ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/16-22:42:38.043 10ac Delete type=2 #55
+2026/04/16-22:42:38.043 10ac Delete type=2 #57
+2026/04/16-22:42:38.043 10ac Delete type=2 #59
+2026/04/16-22:42:38.043 10ac Delete type=2 #62
+2026/04/16-22:42:38.043 10ac Delete type=2 #64
+2026/04/16-22:44:38.035 590 Level-0 table #67: started
+2026/04/16-22:44:38.038 590 Level-0 table #67: 73135 bytes OK
+2026/04/16-22:44:38.039 590 Delete type=0 #63
+2026/04/16-22:46:38.029 7340 Level-0 table #69: started
+2026/04/16-22:46:38.032 7340 Level-0 table #69: 73223 bytes OK
+2026/04/16-22:46:38.034 7340 Delete type=0 #66
+2026/04/16-22:48:42.303 63b4 Level-0 table #71: started
+2026/04/16-22:48:42.306 63b4 Level-0 table #71: 73275 bytes OK
+2026/04/16-22:48:42.307 63b4 Delete type=0 #68
