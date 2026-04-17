@@ -1,27 +1,15 @@
-2026/04/16-22:39:25.600 53b0 Reusing MANIFEST C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/16-22:39:25.600 53b0 Recovering log #58
-2026/04/16-22:39:25.601 53b0 Reusing old log C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/000058.log 
-2026/04/16-22:40:38.026 4168 Level-0 table #62: started
-2026/04/16-22:40:38.029 4168 Level-0 table #62: 69782 bytes OK
-2026/04/16-22:40:38.030 4168 Delete type=0 #58
-2026/04/16-22:42:38.027 10ac Level-0 table #64: started
-2026/04/16-22:42:38.031 10ac Level-0 table #64: 72115 bytes OK
-2026/04/16-22:42:38.033 10ac Delete type=0 #61
-2026/04/16-22:42:38.037 10ac Compacting 4@0 + 1@1 files
-2026/04/16-22:42:38.040 10ac Generated table #65@0: 11 keys, 36867 bytes
-2026/04/16-22:42:38.040 10ac Compacted 4@0 + 1@1 files => 36867 bytes
-2026/04/16-22:42:38.042 10ac compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/04/16-22:42:38.043 10ac Delete type=2 #55
-2026/04/16-22:42:38.043 10ac Delete type=2 #57
-2026/04/16-22:42:38.043 10ac Delete type=2 #59
-2026/04/16-22:42:38.043 10ac Delete type=2 #62
-2026/04/16-22:42:38.043 10ac Delete type=2 #64
-2026/04/16-22:44:38.035 590 Level-0 table #67: started
-2026/04/16-22:44:38.038 590 Level-0 table #67: 73135 bytes OK
-2026/04/16-22:44:38.039 590 Delete type=0 #63
-2026/04/16-22:46:38.029 7340 Level-0 table #69: started
-2026/04/16-22:46:38.032 7340 Level-0 table #69: 73223 bytes OK
-2026/04/16-22:46:38.034 7340 Delete type=0 #66
-2026/04/16-22:48:42.303 63b4 Level-0 table #71: started
-2026/04/16-22:48:42.306 63b4 Level-0 table #71: 73275 bytes OK
-2026/04/16-22:48:42.307 63b4 Delete type=0 #68
+2026/04/17-11:00:50.683 2d2c Reusing MANIFEST C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/17-11:00:50.692 2d2c Recovering log #129
+2026/04/17-11:00:50.693 2d2c Reusing old log C:/Uni Year 2/Game Engine Programming/Unreal repo/gep-25-26-unreal-template-mkrzz/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/000129.log 
+2026/04/17-12:00:56.172 76b4 Level-0 table #133: started
+2026/04/17-12:00:56.175 76b4 Level-0 table #133: 75394 bytes OK
+2026/04/17-12:00:56.177 76b4 Delete type=0 #129
+2026/04/17-12:00:56.181 76b4 Compacting 4@0 + 1@1 files
+2026/04/17-12:00:56.185 76b4 Generated table #134@0: 11 keys, 38207 bytes
+2026/04/17-12:00:56.185 76b4 Compacted 4@0 + 1@1 files => 38207 bytes
+2026/04/17-12:00:56.186 76b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/17-12:00:56.186 76b4 Delete type=2 #124
+2026/04/17-12:00:56.186 76b4 Delete type=2 #126
+2026/04/17-12:00:56.187 76b4 Delete type=2 #128
+2026/04/17-12:00:56.187 76b4 Delete type=2 #130
+2026/04/17-12:00:56.187 76b4 Delete type=2 #133
